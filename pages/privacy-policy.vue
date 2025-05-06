@@ -57,9 +57,9 @@
             5. 개인정보 보호책임자
           </h2>
           <div class="text-gray-600">
-            <p>이름: 홍길동</p>
+            <p>이름: 이명필</p>
             <p>직위: 개인정보 보호책임자</p>
-            <p>연락처: privacy@example.com</p>
+            <p>연락처: zkwmdi30@gmail.com</p>
           </div>
         </section>
       </div>
